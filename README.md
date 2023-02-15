@@ -1,5 +1,9 @@
 # Headers
 
+Example output of visiting http://localhost:8080/headers with this app is:
+
+![screen grab](ExampleHeaders.png "Example output of visiting http://localhost:8080/headers with this app is:")
+
 This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/). Feel free to contact us for further questions.
 
 ## Development
