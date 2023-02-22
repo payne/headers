@@ -6,6 +6,14 @@ Example output of visiting http://localhost:8080/headers with this app is:
 
 This app was created with Bootify.io - tips on working with the code [can be found here](https://bootify.io/next-steps/). Feel free to contact us for further questions.
 
+## Release 0.0.1 the fat jar
+
+Just download release 0.0.1 and run:
+```
+java -jar headers-0.0.1-SNAPSHOT.jar
+```
+
+
 ## Development
 
 During development it is recommended to use the profile `local`. In IntelliJ, `-Dspring.profiles.active=local` can be added in the VM options of the Run Configuration after enabling this property in "Modify options".
